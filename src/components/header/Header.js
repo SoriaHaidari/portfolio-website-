@@ -13,7 +13,7 @@ export default function Header() {
         <div className="container header__container">
           <div className="header__text">
             <h5 className="head-5">{t("header.head")}</h5>
-            <h1 className="header-name">{t("header.name")}</h1>
+            <h1 className="header-name">Suriya Haidari</h1>
             <p className="bio">{t("header.data")}</p>
 
             {/* Got the socials dunamically from HeaderSocials component */}
